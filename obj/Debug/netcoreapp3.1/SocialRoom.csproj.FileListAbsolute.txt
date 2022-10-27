@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/SocialRoom/bin/Debug/netcoreapp3.1/SocialRoom.deps.json
+/Users/migleczigergo/Projects/SocialRoom/bin/Debug/netcoreapp3.1/SocialRoom.runtimeconfig.json
+/Users/migleczigergo/Projects/SocialRoom/bin/Debug/netcoreapp3.1/SocialRoom.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/SocialRoom/bin/Debug/netcoreapp3.1/SocialRoom.dll
+/Users/migleczigergo/Projects/SocialRoom/bin/Debug/netcoreapp3.1/SocialRoom.pdb
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.AssemblyInfo.cs
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.dll
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.pdb
+/Users/migleczigergo/Projects/SocialRoom/obj/Debug/netcoreapp3.1/SocialRoom.genruntimeconfig.cache
